@@ -2,6 +2,6 @@ import axios from "axios";
 
 
 export const customAxios = axios.create({
-  baseURL: "https://639d32809d5c.ngrok-free.app/api",
+  baseURL: "https://4c84e0a16c26.ngrok-free.app/api",
   withCredentials: true,
 });
